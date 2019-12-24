@@ -3,3 +3,8 @@ remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-include-cache
+
+sidebar:
+  - title: "Slides"
+    text: "Some text here."
+    text: "Some text here."
