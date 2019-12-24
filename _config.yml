@@ -1,5 +1,5 @@
 title: Reproducible Research things
-remote_theme: amandamiotto/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-include-cache
