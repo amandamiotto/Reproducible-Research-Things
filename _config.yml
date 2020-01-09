@@ -5,5 +5,6 @@ plugins:
   - jekyll-include-cache
 
 sidebar:
-  - title: "Slides"
-    text: "Some text here."
+  title: "Slides"
+  nav: sidebar-sample
+  
