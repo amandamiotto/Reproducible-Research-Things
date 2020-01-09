@@ -2,3 +2,4 @@
   - title: "Parent Page A"
     children:
       - title: "Child Page A1"
+        url: /
